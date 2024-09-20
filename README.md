@@ -21,12 +21,14 @@ Database: MongoDB (Atlas or local MongoDB instance)
 Middleware: CORS for handling cross-origin requests
 Environment: dotenv for environment variable management
 Approach
-Backend Development:
+
+# Backend Development:
 
 Set up MongoDB for storing apparel submissions.
 Created a REST API with routes to handle the submission and retrieval of apparel information.
 Used Mongoose for defining the schema for the Apparel model.
-Frontend Development:
+
+# Frontend Development:
 
 Built a simple React application with two components: ApparelForm (for submission) and ApparelList (for viewing submissions).
 Connected the React frontend to the Node.js backend using Axios for API requests.
@@ -46,8 +48,6 @@ MongoDB (use MongoDB Atlas or a local instance)
 Backend Setup
 Clone the repository:
 
-bash
-Copy code
 https://github.com/ChauhanOO7/unstopassignment.git
 Navigate to the backend directory:
 
@@ -69,7 +69,7 @@ Or for production:
 npm start
 The backend will be running at http://localhost:5000.
 
-Frontend Setup
+# Frontend Setup
 Navigate to the frontend directory:
 
 cd ../frontend
