@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -160,3 +161,6 @@ Click Submit.
 
 Navigate to api/apparel/all to view the list of all submitted apparel.
 >>>>>>> 5f4aa31f4ecb9ba47cb31cd767b9845044129c88
+=======
+# unstopfrontend
+>>>>>>> 684b20cd27582391ca97927c8f61980ef32e7b50
